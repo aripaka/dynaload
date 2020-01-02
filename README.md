@@ -1,1 +1,1 @@
-# DynaLoad is a Dynamic Library Loader for DotNet Technology
+DynaLoad is a Dynamic Library Loader for DotNet Technology
